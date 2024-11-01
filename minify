@@ -1,0 +1,4 @@
+uglifycss css/leafer-front-data.css>css/leafer-front-data.min.css
+uglifycss css/leafer-front-variables.css>css/leafer-front-variables.min.css
+uglifyjs js/leafer-admin.js -o js/leafer-admin.min.js
+uglifyjs js/leafer-front.js -o js/leafer-front.min.js

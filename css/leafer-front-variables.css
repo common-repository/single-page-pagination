@@ -1,0 +1,5 @@
+:root {
+    --button-bg-color: __BUTTON_BG_COLOR__;
+    --tooltip-bg-color: __TOOLTIP_BG_COLOR__;
+    --tooltip-color: __TOOLTIP_COLOR__;
+}

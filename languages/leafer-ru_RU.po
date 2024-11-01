@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Single Page Pagination\n"
+"POT-Creation-Date: 2019-02-17 12:40+0300\n"
+"PO-Revision-Date: 2019-02-17 12:44+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: single-page-pagination.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: single-page-pagination-admin.php:88
+msgid "Pagination"
+msgstr "Постраничная навигация"
+
+#: single-page-pagination-admin.php:95
+msgid "In Same Term"
+msgstr "В пределах категории (таксономии)"
+
+#: single-page-pagination-admin.php:103
+msgid "Taxonomy"
+msgstr "Таксономия"
+
+#: single-page-pagination-admin.php:111
+msgid "Colors"
+msgstr "Цвета"
+
+#: single-page-pagination-admin.php:118
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: single-page-pagination-admin.php:126
+msgid "Arrow Color"
+msgstr "Цвет стрелки"
+
+#: single-page-pagination-admin.php:134
+msgid "Tooltip Background Color"
+msgstr "Цвет фона подсказок"
+
+#: single-page-pagination-admin.php:142
+msgid "Tooltip Text Color"
+msgstr "Цвет текста подсказок"
+
+#. Description of the plugin/theme
+#: single-page-pagination-admin.php:153
+msgid ""
+"A simple plugin that displays next and previous links on single post pages."
+msgstr ""
+"Плагин выводит на странице записи Wordpress ссылки на следующую и предыдущую "
+"по дате записи по бокам страницы в виде заметных крупных кнопок."
+
+#: single-page-pagination-admin.php:155
+msgid "Posts are ordered chronologically."
+msgstr ""
+"<p>Может использоваться и для навигации по товарам WooCommerce.</p>\n"
+"<p>Работает на базе функций next_post_link() / previous_post_link().</p>\n"
+"<p>Если включить чекбокс «в пределах таксономии», то будет выводиться ссылка "
+"на следующую статью из той же категории, что и текущая.<br/>\n"
+"Если запись находится в нескольких категориях одновременно, то подбор "
+"записей будет из всех этих рубрик. Так, например, может получиться, что "
+"текущая запись находится в рубриках 1 2 3, а следующая в 4 5. Таким образом, "
+"при переходе по таким ссылкам, не получится смотреть записи из одной "
+"рубрики, и пользователя будет кидать из одной рубрики в другую.</p>\n"
+"<p>Параметр «таксономия» — название таксономии, ссылка на запись из которой "
+"будет получаться.</p>\n"
+"Для навигации по записям Wordpress в пределах категории, выберите «category»."
+"<br/>\n"
+"Для навигации по продуктам WooCommerce в пределах категории, выберите "
+"«Product category»."
+
+#. Plugin Name of the plugin/theme
+msgid "Single Page Pagination"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/single-page-pagination/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "onest.by"
+msgstr ""
